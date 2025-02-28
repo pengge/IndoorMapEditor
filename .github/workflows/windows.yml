@@ -1,6 +1,6 @@
 name: Windows
 on: 
-  # push代码时触发workflow 0228-2
+  # push代码时触发workflow 0228-3
   push:
     paths:
       - '*.pro'
