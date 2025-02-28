@@ -40,7 +40,7 @@ jobs:
             msvc_arch: x64
             qt_arch_install: msvc2017_64
     env:
-      targetName: IndoorMapEditor-Qt.exe
+      targetName: IndoorMapEditor.exe
     # 步骤
     steps:
       # 安装Qt
